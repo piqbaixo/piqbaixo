@@ -1,20 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" role="img" aria-label="Guilherme — Web Developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 220" width="820" height="220" role="img" aria-label="Guilherme — Backend Developer">
   <style>
     .ink   { fill: #14161a; }
     .muted { fill: #6b7280; }
-    .rule  { stroke: #d0d4da; }
+    .rule  { stroke: #c9cdd4; }
     @media (prefers-color-scheme: dark) {
       .ink   { fill: #ededed; }
-      .muted { fill: #9aa1ac; }
+      .muted { fill: #8b929c; }
       .rule  { stroke: #2a2f37; }
     }
-    .eyebrow { font-family: ui-monospace,'SF Mono','Menlo','Consolas',monospace; font-size: 15px; letter-spacing: 9px; }
-    .name    { font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 96px; font-weight: 300; letter-spacing: 7px; }
-    .caption { font-family: ui-monospace,'SF Mono','Menlo','Consolas',monospace; font-size: 15px; letter-spacing: 5px; }
+    .label { font-family: ui-monospace,'SF Mono','Menlo','Consolas',monospace; font-size: 13px; letter-spacing: 4px; }
+    .meta  { font-family: ui-monospace,'SF Mono','Menlo','Consolas',monospace; font-size: 13px; letter-spacing: 2px; }
+    .name  { font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 92px; font-weight: 300; letter-spacing: 5px; }
   </style>
 
-  <text x="380" y="78"  text-anchor="middle" class="eyebrow muted">WEB DEVELOPER</text>
-  <text x="380" y="180" text-anchor="middle" class="name ink">Guilherme</text>
-  <line x1="305" y1="218" x2="455" y2="218" class="rule" stroke-width="1"/>
-  <text x="380" y="258" text-anchor="middle" class="caption muted">MOGI DAS CRUZES, SP &#183; BRASIL</text>
+  <text x="30"  y="34" text-anchor="start" class="label muted">BACKEND DEVELOPER</text>
+  <text x="790" y="34" text-anchor="end"   class="meta muted">MOGI DAS CRUZES &#183; BR</text>
+
+  <line x1="30" y1="50" x2="790" y2="50" class="rule" stroke-width="1"/>
+
+  <text x="28" y="150" text-anchor="start" class="name ink">Guilherme</text>
+
+  <line x1="30" y1="178" x2="790" y2="178" class="rule" stroke-width="1"/>
+
+  <text x="30"  y="204" text-anchor="start" class="meta muted">APIs &#183; BANCOS DE DADOS &#183; SISTEMAS</text>
+  <text x="790" y="204" text-anchor="end"   class="meta muted">@piqbaixo</text>
 </svg>
