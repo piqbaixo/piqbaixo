@@ -12,21 +12,21 @@
 <br>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/ededed"><img height="26" src="https://cdn.simpleicons.org/typescript/14161a" alt="TypeScript"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/ededed"><img height="26" src="https://cdn.simpleicons.org/typescript/0a0a0a" alt="TypeScript"></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/ededed"><img height="26" src="https://cdn.simpleicons.org/nodedotjs/14161a" alt="Node.js"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/ededed"><img height="26" src="https://cdn.simpleicons.org/nodedotjs/0a0a0a" alt="Node.js"></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/ededed"><img height="26" src="https://cdn.simpleicons.org/fastify/14161a" alt="Fastify"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/ededed"><img height="26" src="https://cdn.simpleicons.org/fastify/0a0a0a" alt="Fastify"></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ededed"><img height="26" src="https://cdn.simpleicons.org/postgresql/14161a" alt="PostgreSQL"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ededed"><img height="26" src="https://cdn.simpleicons.org/postgresql/0a0a0a" alt="PostgreSQL"></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ededed"><img height="26" src="https://cdn.simpleicons.org/prisma/14161a" alt="Prisma"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ededed"><img height="26" src="https://cdn.simpleicons.org/prisma/0a0a0a" alt="Prisma"></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/redis/ededed"><img height="26" src="https://cdn.simpleicons.org/redis/14161a" alt="Redis"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/redis/ededed"><img height="26" src="https://cdn.simpleicons.org/redis/0a0a0a" alt="Redis"></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/ededed"><img height="26" src="https://cdn.simpleicons.org/docker/14161a" alt="Docker"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/ededed"><img height="26" src="https://cdn.simpleicons.org/docker/0a0a0a" alt="Docker"></picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ededed"><img height="26" src="https://cdn.simpleicons.org/bun/14161a" alt="Bun"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ededed"><img height="26" src="https://cdn.simpleicons.org/bun/0a0a0a" alt="Bun"></picture>
 </p>
 
 <br>
